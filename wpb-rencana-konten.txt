@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 JAVASCRIPT
 - ES 6
 - Framework Javascript
+  ^ Vue
 Fundamental Data Struktur (Struktur Data Dasar)
-PHP Framework
+PHP Framework 
+  ^ Laravel
 Interview
 Vlogs
+Python
