@@ -4,6 +4,7 @@ JAVASCRIPT
 - ES 6
 - Framework Javascript
   ^ Vue
+  ^ ReactJS
 Fundamental Data Struktur (Struktur Data Dasar)
 PHP Framework 
   ^ Laravel
