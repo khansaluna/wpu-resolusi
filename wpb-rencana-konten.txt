@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 JAVASCRIPT
 - ES 6
 - Framework Javascript
+Fundamental Data Struktur (Struktur Data Dasar)
 PHP Framework
 Interview
 Vlogs
