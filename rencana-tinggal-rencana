@@ -3,9 +3,11 @@ RENCANA KONTEN YANG TINGGAL RENCANA
 - JavaScript
   * ES6
   * Framework JavaScript
-   ^ Angular
-   ^ React  
+    ^ Angular
+    ^ Vue
+    ^ React
 - PHP Frameworks
- ^ Laravel
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
